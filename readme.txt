@@ -1,4 +1,4 @@
-Task: Complete the implementation of the Android mobile app for tracking locations in Assignment 1
+Task: Complete the implementation of the Android mobile app for tracking locations in location tracker android mobile app
 with the requirements listed below
  Use the Android Studio project implemented for Assignment 1.
  The app requires location data from 3 different users, where one user is selected as the current
